@@ -1,2 +1,2 @@
 # github-final-project
-Git/GitHub IMB Full stack course final project
+Git/GitHub IBM Full stack course final project
